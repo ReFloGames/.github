@@ -1,12 +1,21 @@
-## Hi there 👋
+# ReFloGames
 
-<!--
+Welcome to the official repository of ReFloGames. Here, you will find the information and resources related to our studio and our games.
 
-**Here are some ideas to get you started:**
+## About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a passionate group of game developers dedicated to creating unique and immersive gaming experiences. Our studio focuses on developing independent games that push the boundaries of creativity and innovation.
+
+## Contributions
+
+We welcome contributions from the community to improve our games. If you are interested in contributing, please follow the guidelines outlined in our [Contribution Guide](CONTRIBUTING.md).
+
+## Contact Us
+
+If you have any questions, feedback, or business inquiries, feel free to reach out to us at [reflogames@protonmail.com](mailto:reflogames@protonmail.com).
+
+We appreciate your support and hope you enjoy our games!
+
+---
+
+*This repository is maintained by ReFloGames. All rights reserved.*
